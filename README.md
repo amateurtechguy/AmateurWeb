@@ -1,5 +1,6 @@
 ## AmateurWeb
-Hello! My name is Zach, and if you're reading this: Welcome to my website!
+Hello! My name is Zach, and if you're reading this: ?**Welcome to my website!**
+
 This website is a small project I built to introduce myself, share some of my interests, and showcase some of my projects I've worked on.
 
 ## >> Home page
