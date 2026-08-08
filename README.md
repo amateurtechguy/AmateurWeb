@@ -3,9 +3,16 @@ Hello! My name is Zach, and if you're reading this:**Welcome to my website!**
 
 This website is a small project I built to introduce myself, share some of my interests, and showcase some of my projects I've worked on.
 
+## How does it work?
+
+Click on this link to be redirected to my website:[AmateurWeb](amateurtechguy.github.io/AmateurWeb)
+
+And now let's start exploring page by page!
+
 ## >> Home page
 
 This is the home page, there to welcome you into the website
+
 <img width="944" height="428" alt="Screenshot 2026-08-08 001625" src="https://github.com/user-attachments/assets/7506487a-cf92-4e99-bc34-da25641a46fe" />
 
 ## >> About me
@@ -18,11 +25,13 @@ Two sections that are eerily similar to eachother in design where you can learn 
 
 ## >> Profile
 
-A section that redirects you to my stardance profile
+A section that redirects you to my [stardance](https://www.nasa.gov/stem-content/hack-club-stardance-challenge/) profile
 
 ## >> Feedback
 
 The page used to send me your feedback and what you think of my website!
+
+<img width="936" height="431" alt="Screenshot 2026-08-06 205317" src="https://github.com/user-attachments/assets/de548608-0fca-4880-9a88-430aaf1fc128" />
 
 ## >> Built with:
 
