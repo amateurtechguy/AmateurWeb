@@ -29,7 +29,7 @@ A section that redirects you to my [stardance](https://www.nasa.gov/stem-content
 
 ## >> Feedback:
 
-The page used to send me your feedback and what you think of my website!
+The page used to send me your feedback on my website!
 
 <img width="936" height="431" alt="Screenshot 2026-08-06 205317" src="https://github.com/user-attachments/assets/de548608-0fca-4880-9a88-430aaf1fc128" />
 
