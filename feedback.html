@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="feedback.css">
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap" rel="stylesheet">
+     <link rel="icon" type="image/png" href="favicon.png">
+    <title>Feedback</title> 
+</head>
+<header>
+      <header>
+        <nav>
+            <button class="logo" onclick="window.location.href='index.html'">AmateurWeb</button>
+            <ul class="navlinks">
+          <li><a href="about.html" alt="about me">About</a></li> 
+           <li><a href="hobbies.html" alt="my hobbies">Hobbies</a></li> 
+            <li><a href="projects.html" alt="my projects">Projects</a></li> 
+            <li><a href="https://stardance.hackclub.com/@amateur_tech_guy" alt="my profile in stardance/slack" target="_blank">Profile</a></li>
+
+        </ul>
+
+       <div class="btns">
+                <button class="btn" onclick="window.location.href='feedback.html'" >Feedback</button>
+       </div>
+        </nav> 
+    </header>
+<body>
+    <section class="Feedback">
+    <h1>What do you think of this website?:D</h1>
+    <form action="https://api.web3forms.com/submit" class="Feedbackform" method="POST">
+          <input type="hidden" name="access_key" value="125cf99f-a9ac-4474-aec6-005499990565">
+        <div class="input-box">
+        <label for="name">Name</label>
+        <input type="text" id="name" placeholder="Enter your name" required>
+        </div>
+        <div class="input-box">
+        <label for="email">Email</label>
+        <input type="email" id="email" placeholder="Enter your email" required>
+        </div>
+        <div class="input-box">
+        <label for="thoughts">Thoughts?</label>
+        <textarea id="thoughts" name="thoughts" placeholder="tell me what you think of my website:D" rows="6" required></textarea>
+        </div>
+        <button class="button" type="submit">Submit feedback!</button>
+    </form>
+   </section>
+   <br>
+   <hr>
+   <footer>
+        <h3>&copy; The amateur tech guy; built with <span class="HTML">HTML</span> and <span class="CSS">CSS</span> </h3>
+    </footer>
+</body>
+</html>
