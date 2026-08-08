@@ -127,7 +127,7 @@ nav{
    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 .flip-card-front{
-    background-image: url(OIP.webp);
+    background-image: url(img/OIP.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -154,13 +154,13 @@ nav{
     margin-bottom:50px;
 }
 .flip-card-front2{
-    background-image: url(calculator.png);
+    background-image: url(img/calculator.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .flip-card-front3{
-    background-image: url(led.jpg);
+    background-image: url(img/led.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
