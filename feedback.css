@@ -185,3 +185,26 @@ textarea:focus{
 *{
     font-family: 'JetBrains Mono';
 }
+@media (max-width: 768px) {
+    .Feedbackform {
+width: 90%;
+max-width: 500px;
+margin:0 auto;
+    }
+    .Feedbackform input-box{
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
+    }
+    .Feedbackform textarea{
+        min-height: 150px;
+    }
+  .button {
+    width: 100%;
+    max-width: 300px;
+    box-sizing: border-box;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}

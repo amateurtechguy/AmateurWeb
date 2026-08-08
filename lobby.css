@@ -134,3 +134,8 @@ hr,h3{
 *{
     font-family: 'JetBrains Mono';
 }
+@media (max-width: 768px){
+    *{
+        box-sizing: border-box;
+    }
+}

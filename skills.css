@@ -172,3 +172,11 @@ nav{
   color: rgb(131, 0, 0);
   font-weight: 700;
 }
+@media (max-width: 768px){
+        .projects-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap:30px;
+        }
+}
