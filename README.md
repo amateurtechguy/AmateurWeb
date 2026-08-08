@@ -11,23 +11,23 @@ And now let's start exploring page by page!
 
 ## >> Home page
 
-This is the home page, there to welcome you into the website
+This is the home page, there to welcome you into the website.
 
 <img width="944" height="428" alt="Screenshot 2026-08-08 001625" src="https://github.com/user-attachments/assets/7506487a-cf92-4e99-bc34-da25641a46fe" />
 
-## >> About me
+## >> About me:
 
-A section that briefly describes me and who I am
+A section that briefly describes me and who I am.
 
-## >> Projects and hobbies
+## >> Projects and hobbies:
 
 Two sections that are eerily similar to eachother in design where you can learn more about me!
 
-## >> Profile
+## >> Profile:
 
-A section that redirects you to my [stardance](https://www.nasa.gov/stem-content/hack-club-stardance-challenge/) profile
+A section that redirects you to my [stardance](https://www.nasa.gov/stem-content/hack-club-stardance-challenge/) profile.
 
-## >> Feedback
+## >> Feedback:
 
 The page used to send me your feedback and what you think of my website!
 
@@ -40,13 +40,13 @@ The page used to send me your feedback and what you think of my website!
 - [web3forms.com](web3forms.com):for a working feedback page.
 - Github pages: for deploying the website.
 
-## >> Inspiration
+## >> Inspiration:
 
 Thanks to a couple creators on youtube I was able to learn and grow my knowledge using HTML and CSS, the person I owe my biggest thanks to is Bro Code for teaching me how to code. As for the designs I thought of them myself at night, and searched how to actually make them.
 
-## >> Creator
+## >> Creator:
 
-Made by **the amateur tech guy**
+Made by **the amateur tech guy**!
 
 ---
 
